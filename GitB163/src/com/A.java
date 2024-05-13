@@ -17,6 +17,10 @@ public class A
 	{
 		System.out.println("M3---IN GIt");
 	}
+	public void m5()
+	{
+		System.out.println("M5---IN GIt");
+	}
 	
 public static void main(String[] args) {
 	System.out.println("This is Git Demo");
