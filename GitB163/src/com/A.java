@@ -21,11 +21,11 @@ public class A
   public void m5()
   {
   }
-
-public void m7()
-  {
-	System.out.println("M7---IN GIt");  
-  }
+public void m6()
+	{
+		System.out.println("M6---IN GIt");
+	}
+  
 
 	
 public static void main(String[] args) {
